@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/udayannayak/udayannayak.github.io/static/css/main.191c9796.chunk.css",
-    "main.js": "/udayannayak/udayannayak.github.io/static/js/main.163f15d2.chunk.js",
-    "main.js.map": "/udayannayak/udayannayak.github.io/static/js/main.163f15d2.chunk.js.map",
-    "runtime-main.js": "/udayannayak/udayannayak.github.io/static/js/runtime-main.4c5f7824.js",
-    "runtime-main.js.map": "/udayannayak/udayannayak.github.io/static/js/runtime-main.4c5f7824.js.map",
-    "static/js/2.1dfc575d.chunk.js": "/udayannayak/udayannayak.github.io/static/js/2.1dfc575d.chunk.js",
-    "static/js/2.1dfc575d.chunk.js.map": "/udayannayak/udayannayak.github.io/static/js/2.1dfc575d.chunk.js.map",
-    "index.html": "/udayannayak/udayannayak.github.io/index.html",
-    "precache-manifest.9cbc6cd2add3a4a124e6d9b7ba30c48c.js": "/udayannayak/udayannayak.github.io/precache-manifest.9cbc6cd2add3a4a124e6d9b7ba30c48c.js",
-    "service-worker.js": "/udayannayak/udayannayak.github.io/service-worker.js",
-    "static/css/main.191c9796.chunk.css.map": "/udayannayak/udayannayak.github.io/static/css/main.191c9796.chunk.css.map",
-    "static/js/2.1dfc575d.chunk.js.LICENSE": "/udayannayak/udayannayak.github.io/static/js/2.1dfc575d.chunk.js.LICENSE"
+    "main.css": "/udayannayak.github.io/static/css/main.191c9796.chunk.css",
+    "main.js": "/udayannayak.github.io/static/js/main.74d70149.chunk.js",
+    "main.js.map": "/udayannayak.github.io/static/js/main.74d70149.chunk.js.map",
+    "runtime-main.js": "/udayannayak.github.io/static/js/runtime-main.3d8a726b.js",
+    "runtime-main.js.map": "/udayannayak.github.io/static/js/runtime-main.3d8a726b.js.map",
+    "static/js/2.1dfc575d.chunk.js": "/udayannayak.github.io/static/js/2.1dfc575d.chunk.js",
+    "static/js/2.1dfc575d.chunk.js.map": "/udayannayak.github.io/static/js/2.1dfc575d.chunk.js.map",
+    "index.html": "/udayannayak.github.io/index.html",
+    "precache-manifest.ca1ff807367a49ca4de575743039ce3d.js": "/udayannayak.github.io/precache-manifest.ca1ff807367a49ca4de575743039ce3d.js",
+    "service-worker.js": "/udayannayak.github.io/service-worker.js",
+    "static/css/main.191c9796.chunk.css.map": "/udayannayak.github.io/static/css/main.191c9796.chunk.css.map",
+    "static/js/2.1dfc575d.chunk.js.LICENSE": "/udayannayak.github.io/static/js/2.1dfc575d.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.4c5f7824.js",
+    "static/js/runtime-main.3d8a726b.js",
     "static/js/2.1dfc575d.chunk.js",
     "static/css/main.191c9796.chunk.css",
-    "static/js/main.163f15d2.chunk.js"
+    "static/js/main.74d70149.chunk.js"
   ]
 }
